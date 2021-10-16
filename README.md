@@ -8,3 +8,4 @@ ini adalah tampilannya
 serta inilah penjelasan penggunaan git dan langkah-langkahnya <p>
 ini adalah tampilannya
 ![gambar 2](screenshot/git2.png)
+![gambar 1](screenshot/git1.png)
