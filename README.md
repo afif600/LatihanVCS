@@ -30,6 +30,7 @@
 > git add README.md <p>
 > git commit -m "Dekripsi" <p>
 > git push -u origin main <p>
+
 23.SELESAI <P>
 
 
@@ -39,3 +40,5 @@
 -Berikut adalah contoh menambahkan global config<p>
  Buka aplikasi Git, pada saat pertama kali menggunakan git harus di config terlebih dahulu, kemudian ketik git config --global user.name "nama_user" dan git config --global user.email "nama_user" <p>
 ![gambar 1](screenshot/git1.png)
+
+### Sekian Terima Kasih
