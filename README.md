@@ -30,6 +30,8 @@
 > git add README.md <p>
 > git commit -m "Dekripsi" <p>
 > git push -u origin main <p>
+23.SELESAI <P>
+
 
 -Berikut adalah contoh Screenshot dan Tag Dasar HTML <p>
 ![gambar 3](screenshot/git3.png)
